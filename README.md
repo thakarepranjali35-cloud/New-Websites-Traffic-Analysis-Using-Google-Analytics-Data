@@ -1,4 +1,4 @@
-# News Websites Traffic Analysis
+# News Websites Traffic Analysis Using Google Analytics Data
 
 ## Project Overview
 This project analyzes news website traffic data to understand user engagement, traffic sources, searches, clicks, page views, and revenue.
