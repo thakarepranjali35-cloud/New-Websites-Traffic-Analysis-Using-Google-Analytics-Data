@@ -19,6 +19,8 @@ This project analyzes news website traffic data to understand user engagement, t
 
  ## Dashboard
 
+ ## Excel Dashboard
+
 ![News Website Traffic Analysis Dashboard](dashboard.png)
 
 ## SQL Dashboard
