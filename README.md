@@ -21,6 +21,10 @@ This project analyzes news website traffic data to understand user engagement, t
 
 ![News Website Traffic Analysis Dashboard](dashboard.png)
 
+## SQL Dashboard
+
+![SQL Dashboard](sql-dashboard.png)
+
 ## Dashboard
 An interactive dashboard was created to visualize website traffic and user engagement metrics.
 
