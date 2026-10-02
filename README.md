@@ -17,7 +17,7 @@ This project analyzes news website traffic data to understand user engagement, t
 - Traffic source analysis
 - User engagement and revenue analysis
 
-- ## Dashboard
+ ## Dashboard
 
 ![News Website Traffic Analysis Dashboard](dashboard.png)
 
