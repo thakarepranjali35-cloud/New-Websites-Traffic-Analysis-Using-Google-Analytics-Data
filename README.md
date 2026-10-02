@@ -25,7 +25,7 @@ This project analyzes news website traffic data to understand user engagement, t
 
 ## Power BI Dashboard
 
-![Power BI_Dashboard](Power BI_Dashboard.png)
+![Power BI_Dashboard](Power_BI_Dashboard.png)
 
 ## SQL Dashboard
 
