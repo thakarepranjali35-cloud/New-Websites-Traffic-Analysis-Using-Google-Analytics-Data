@@ -30,5 +30,10 @@ This project analyzes news website traffic data to understand user engagement, t
 ## SQL Dashboard
 
 ![SQL_Dashboard](SQL_Dashboard.png)
+
+## Python Dashboard
+
+![Python_Dashboard](Dashboard_python.png)
+
 ## Dataset
 The dataset contains website traffic and user engagement information used for analysis and visualization.
