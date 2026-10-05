@@ -44,11 +44,5 @@ To analyze Google Analytics data to understand website traffic, user behavior, e
 - Analyzed clicks, searches, revenue, devices, countries, and traffic sources.
 - Created dashboards using Excel, Power BI, Python, and SQL.
 
- ## Dataset
-
-The dataset contains website traffic and user engagement information used for analysis and visualization.
-
-
-
 ## Dataset
 The dataset contains website traffic and user engagement information used for analysis and visualizatio
