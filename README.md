@@ -3,6 +3,9 @@
 ## Project Overview
 This project analyzes news website traffic data to understand user engagement, traffic sources, searches, clicks, page views, and revenue.
 
+## Project Objective
+To analyze Google Analytics data to understand website traffic, user behavior, engagement, traffic sources, clicks, page views, and revenue, and to present meaningful insights through interactive dashboards using Excel, Power BI, SQL, and Python.
+
 ## Tools & Technologies
 - Excel
 - Power BI
