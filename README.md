@@ -30,12 +30,6 @@ To analyze Google Analytics data to understand website traffic, user behavior, e
 
 ![Power BI_Dashboard](Power_BI_Dashboard.png)
 
-## Project Outcome
-
-- Identified website traffic and user engagement trends.
-- Analyzed clicks, searches, revenue, devices, countries, and traffic sources.
-- Created dashboards using Excel, Power BI, Python, and SQL.
-
 ## SQL Dashboard
 
 ![SQL_Dashboard](SQL_Dashboard.png)
@@ -43,6 +37,13 @@ To analyze Google Analytics data to understand website traffic, user behavior, e
 ## Python Dashboard
 
 ![Python_Dashboard](Dashboard_python.png)
+
+## Project Outcome
+
+- Identified website traffic and user engagement trends.
+- Analyzed clicks, searches, revenue, devices, countries, and traffic sources.
+- Created dashboards using Excel, Power BI, Python, and SQL.
+
 
 ## Dataset
 The dataset contains website traffic and user engagement information used for analysis and visualization.
